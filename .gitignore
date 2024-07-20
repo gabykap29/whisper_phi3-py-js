@@ -1,0 +1,5 @@
+.venv
+/client/node_modules
+/server_phi_js/node_modules
+/server_whisper_python/__pycache__
+/server_whisper_python/whisper_env
